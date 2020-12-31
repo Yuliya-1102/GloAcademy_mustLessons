@@ -1,0 +1,11 @@
+input {
+    margin-right: 10px;
+}
+#output{
+    max-width: 450px;
+    background-color: brown;
+}
+.form {
+    margin-bottom: 50px;
+    padding: 10px;
+}

@@ -35,6 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 Цена: ${price}$`;
             }
         });
-    }
+    };
 
 });
